@@ -4,7 +4,7 @@ GDG Nashik Open Design aims to bring open source principles to Creative Design.
 If you haven't already, follow the GDG Nashik Meetup or on Twitter.
 
 [![Join the Meetup at https://www.meetup.com/GDG-Nashik/](https://patrolavia.github.io/telegram-badge/follow.png)](https://www.meetup.com/GDG-Nashik/)
-[![Follow RustHacks at https://twitter.com/gdgnashik](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40RustHack)](https://twitter.com/gdgnashik)
+[![Follow RustHacks at https://twitter.com/gdgnashik](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40GDGNashik)](https://twitter.com/gdgnashik)
 
 ## Welcome
 
